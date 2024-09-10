@@ -1,0 +1,33 @@
+{
+  "welcome": "Welcome",
+  "select_language": "Select Language",
+  "start": "Start",
+  "hotel_check_in": [
+    "I'd like to check in.",
+    "Do you have a reservation?",
+    "Could I see your ID, please?"
+  ],
+  "hotel_check_in_title": "Hotel Check-in Scenario",
+  "select_scenario_title": "Select a Scenario to Study",
+  "hotel_check_in_button": "Hotel Check-in",
+  "signIn": {
+    "title": "Sign In",
+    "email": "Email",
+    "password": "Password",
+    "signInButton": "Sign In",
+    "signUpLink": "Don't have an account? Sign Up",
+    "errorTitle": "Sign In Error",
+    "errorMissingFields": "Both email and password fields are required.",
+    "errorInvalidEmail": "Please enter a valid email address.",
+    "errorWeakPassword": "Password must be at least 6 characters long.",
+    "errorSignInFailed": "Sign In failed. Please check your credentials and try again."
+  },
+  "signUp": {
+    "title": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "signUpButton": "Sign Up",
+    "signInLink": "Already have an account? Sign In"
+  },
+  "signOut": "Sign Out"
+}

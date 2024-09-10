@@ -1,0 +1,28 @@
+{
+  "welcome": "Bienvenido",
+  "select_language": "Seleccionar idioma",
+  "start": "Comenzar",
+  "hotel_check_in": [
+    "¿Puedo hacer el check-in, por favor?",
+    "¿Tiene una reserva?",
+    "¿Podría ver su identificación, por favor?"
+  ],
+  "hotel_check_in_title": "Escenario de recepción del hotel",
+  "select_scenario_title": "Selecciona un Escenario para Estudiar",
+  "hotel_check_in_button": "Recepcion del hotel",
+  "signIn": {
+    "title": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "signInButton": "Iniciar sesión",
+    "signUpLink": "¿No tienes una cuenta? Regístrate"
+  },
+  "signUp": {
+    "title": "Registrarse",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "signUpButton": "Registrarse",
+    "signInLink": "¿Ya tienes una cuenta? Iniciar sesión"
+  },
+  "signOut": "Cerrar sesión"
+}

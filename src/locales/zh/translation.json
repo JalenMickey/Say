@@ -1,0 +1,29 @@
+{
+  "welcome": "欢迎",
+  "select_language": "选择语言",
+  "start": "开始",
+  "hotel_check_in": [
+    "我想办理入住。",
+    "您有预订吗？",
+    "我可以看一下您的身份证吗？"
+  ],
+  "hotel_check_in_title": "酒店入住场景",
+  "select_scenario_title": "选择一个场景来学习",
+  "hotel_check_in_button": "酒店入住",
+  "signIn": {
+    "title": "登录",
+    "email": "电子邮件",
+    "password": "密码",
+    "signInButton": "登录",
+    "signUpLink": "没有账户？ 注册"
+  },
+  "signUp": {
+    "title": "注册",
+    "email": "电子邮件",
+    "password": "密码",
+    "signUpButton": "注册",
+    "signInLink": "已有账户？ 登录"
+  },
+  "signOut": "登出"
+}
+

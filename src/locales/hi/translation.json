@@ -1,0 +1,28 @@
+{
+  "welcome": "स्वागत है",
+  "select_language": "भाषा चुनें",
+  "start": "शुरू करें",
+  "hotel_check_in": [
+    "मैं चेक-इन करना चाहता हूँ।",
+    "क्या आपकी बुकिंग है?",
+    "क्या मैं आपकी आईडी देख सकता हूँ?"
+  ],
+  "hotel_check_in_title": "होटल चेक-इन परिदृश्य",
+  "select_scenario_title": "अध्यान के लिए एक परिदृश्य चुनें",
+  "hotel_check_in_button": "होटल चेक-इन",
+  "signIn": {
+    "title": "साइन इन करें",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "signInButton": "साइन इन करें",
+    "signUpLink": "खाता नहीं है? साइन अप करें"
+  },
+  "signUp": {
+    "title": "साइन अप करें",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "signUpButton": "साइन अप करें",
+    "signInLink": "पहले से एक खाता है? साइन इन करें"
+  },
+  "signOut": "साइन आउट"
+}

@@ -1,0 +1,28 @@
+{
+  "welcome": "Willkommen",
+  "select_language": "Sprache auswählen",
+  "start": "Starten",
+  "hotel_check_in": [
+    "Ich möchte einchecken.",
+    "Haben Sie eine Reservierung?",
+    "Könnte ich bitte Ihren Ausweis sehen?"
+  ],
+  "hotel_check_in_title": "Hotel Check-in Szenario",
+  "select_scenario_title": "Wählen Sie ein Szenario zum Lernen",
+  "hotel_check_in_button": "Hotel Check-in",
+  "signIn": {
+    "title": "Anmelden",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "signInButton": "Anmelden",
+    "signUpLink": "Noch kein Konto? Registrieren"
+  },
+  "signUp": {
+    "title": "Registrieren",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "signUpButton": "Registrieren",
+    "signInLink": "Bereits ein Konto? Anmelden"
+  },
+  "signOut": "Abmelden"
+}

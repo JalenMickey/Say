@@ -1,0 +1,28 @@
+{
+  "welcome": "ようこそ",
+  "select_language": "言語を選択",
+  "start": "開始",
+  "hotel_check_in": [
+    "チェックインしたいです。",
+    "予約はありますか？",
+    "IDを見せていただけますか？"
+  ],
+  "hotel_check_in_title": "ホテルチェックインシナリオ",
+  "select_scenario_title": "学ぶシナリオを選択",
+  "hotel_check_in_button": "ホテルチェックイン",
+  "signIn": {
+    "title": "サインイン",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "signInButton": "サインイン",
+    "signUpLink": "アカウントがありませんか？ サインアップ"
+  },
+  "signUp": {
+    "title": "サインアップ",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "signUpButton": "サインアップ",
+    "signInLink": "すでにアカウントがありますか？ サインイン"
+  },
+  "signOut": "サインアウト"
+}
