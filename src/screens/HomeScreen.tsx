@@ -26,7 +26,7 @@ const HomeScreen: React.FC = () => {
         />
       </View>
       <View style={styles.buttonContainer}>
-        <Button title={t('start')} onPress={() => navigation.navigate('Study')} />
+        <Button title={t('start')} onPress={() => navigation.navigate('SignIn')} />
       </View>
     </View>
   );
