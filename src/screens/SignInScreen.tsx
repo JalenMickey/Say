@@ -33,7 +33,10 @@ const SignInScreen: React.FC = () => {
     try {
       await signIn(email, password);
       // Navigate to HomeScreen on successful sign-in
-      navigation.navigate('Study');
+      navigation.reset({
+        index: 0,
+        routes: [{ name: 'Study' }],
+      });
     } catch (error) {
       Alert.alert(t('signIn.errorTitle'), t('signIn.errorSignInFailed'));
     }
