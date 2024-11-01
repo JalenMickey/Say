@@ -36,7 +36,7 @@ const AppNavigator: React.FC = () => {
   return (
     <NavigationContainer>
       <I18nextProvider i18n={i18n}>
-        <Stack.Navigator initialRouteName="Home">
+        <Stack.Navigator initialRouteName="Study">
           <Stack.Screen
             name="Home"
             component={HomeScreen}

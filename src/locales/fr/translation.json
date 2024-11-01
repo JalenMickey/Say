@@ -1,28 +1,40 @@
 {
   "welcome": "Bienvenue",
-  "select_language": "Sélectionner la langue",
-  "start": "Démarrer",
+  "select_language": "Choisir la langue",
+  "start": "Commencer",
   "hotel_check_in": [
-    "Je voudrais prendre ma chambre.",
+    "Je voudrais m'enregistrer.",
     "Avez-vous une réservation ?",
     "Puis-je voir votre pièce d'identité, s'il vous plaît ?"
   ],
-  "hotel_check_in_title": "Scénario de Check-in à l'Hôtel",
-  "select_scenario_title": "Sélectionnez un Scénario à Étudier",
-  "hotel_check_in_button": "Check-in à l'Hôtel",
+  "select_scenario_title": "Sélectionnez un scénario à étudier",
+  "hotel_check_in_button": "Enregistrement à l'hôtel",
+  "welcome_message": "Bienvenue à l'hôtel !",
+  "start_speaking_button": "Commencer à parler",
+  "stop_speaking_button": "Arrêter de parler",
   "signIn": {
-    "title": "Connexion",
+    "title": "Se connecter",
     "email": "Email",
     "password": "Mot de passe",
     "signInButton": "Se connecter",
-    "signUpLink": "Pas encore de compte ? Inscrivez-vous"
+    "signUpLink": "Vous n'avez pas de compte ? Inscrivez-vous",
+    "errorTitle": "Erreur de connexion",
+    "errorMissingFields": "Les champs email et mot de passe sont obligatoires.",
+    "errorInvalidEmail": "Veuillez entrer une adresse email valide.",
+    "errorWeakPassword": "Le mot de passe doit contenir au moins 6 caractères.",
+    "errorSignInFailed": "Échec de la connexion. Veuillez vérifier vos informations d'identification et réessayer."
   },
   "signUp": {
     "title": "S'inscrire",
     "email": "Email",
     "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "phoneNumber": "Numéro de téléphone",
+    "dob": "Date de naissance",
     "signUpButton": "S'inscrire",
-    "signInLink": "Déjà un compte ? Connexion"
+    "signInLink": "Vous avez déjà un compte ? Connectez-vous"
   },
-  "signOut": "Déconnexion"
+  "signOut": "Se déconnecter"
 }

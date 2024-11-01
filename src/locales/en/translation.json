@@ -7,9 +7,11 @@
     "Do you have a reservation?",
     "Could I see your ID, please?"
   ],
-  "hotel_check_in_title": "Hotel Check-in Scenario",
   "select_scenario_title": "Select a Scenario to Study",
   "hotel_check_in_button": "Hotel Check-in",
+  "welcome_message": "Welcome to the hotel!",
+  "start_speaking_button": "Start Speaking",
+  "stop_speaking_button": "Stop Speaking",
   "signIn": {
     "title": "Sign In",
     "email": "Email",
@@ -34,5 +36,15 @@
     "signUpButton": "Sign Up",
     "signInLink": "Already have an account? Sign In"
   },
-  "signOut": "Sign Out"
+  "signOut": "Sign Out",
+  "conversation_complete": "You have completed the conversation!",
+  "hotel_reservation_question": "Do you have a reservation?",
+  "response_1_hi": "Hi!",
+  "response_2_bathroom": "Where is the bathroom?",
+  "response_3_age": "How old are you?",
+  "response_4_check_in": "I'd like to check in.",
+  "response_yes": "Yes, I do.",
+  "response_no": "No, I don't.",
+  "response_what_reservation": "What is a reservation?",
+  "response_repeat_question": "Could you repeat the question?"
 }
